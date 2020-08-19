@@ -17,13 +17,13 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta"
+  github: "https://github.com/mosharaf13",
+  linkedin: "https://www.linkedin.com/in/mosharaf13/",
+  gmail: "mosharafkuet@gmail.com",
+  // gitlab: "https://gitlab.com/saadpasta",
+  facebook: "https://www.facebook.com/mosharaf53",
+  medium: "https://medium.com/@mosharafkuet",
+  stackoverflow: "https://stackoverflow.com/users/6049005/mosharaf"
   // Instagram and Twitter are also supported in the links!
 };
 
