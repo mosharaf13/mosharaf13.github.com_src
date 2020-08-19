@@ -10,7 +10,7 @@ const greeting = {
   username: "Mosharaf",
   title: "Hi all, I'm Mosharaf",
   subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1m9qqcUt3xuo3uX0Qw5BKiVT8SQGPyvV0/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -265,8 +265,8 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "+8801753773427",
+  email_address: "mosharafkuet@gmail.com"
 };
 
 //Twitter Section
