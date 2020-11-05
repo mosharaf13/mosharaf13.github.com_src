@@ -131,10 +131,15 @@ const workExperiences = {
             company: "Sigma Solutions",
             companylogo: require("./assets/images/sigma2.png"),
             date: "March 2019 – Present",
-            desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            desc: "Worked on different projects listed below",
             descBullets: [
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                "Pixmama",
+                "Smart construction",
+                "Weecare.life",
+                "SigmaSolutions comopany portfolio site",
+                "e-KYC",
+                "Digitouch12",
+                "Intelligent SOC"
             ]
         },
         {
@@ -142,7 +147,8 @@ const workExperiences = {
             company: "Hyper Systems Ltd.",
             companylogo: require("./assets/images/hslogo.png"),
             date: "May 2018 – February 2018",
-            desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            desc: "Developed features for myRADAR GPS based vehicle tracking system which allows users to track,\n" +
+            "monitor and control their vehicles remotely."
         }
     ]
 };
@@ -151,25 +157,31 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-    githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-    githubUserName: "mosharaf13", // Change to your github username to view your profile in Contact Section.
-    showGithubProfile: "true" // Set true or false to show Contact profile using Github, defaults to false
+    // githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
+    // githubUserName: "mosharaf13", // Change to your github username to view your profile in Contact Section.
+    // showGithubProfile: "true" // Set true or false to show Contact profile using Github, defaults to false
 };
 
 
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-    title: "Big Projects",
+    title: "Professional Projects",
     subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
     projects: [
         {
-            image: require("./assets/images/saayaHealthLogo.webp"),
-            link: "http://saayahealth.com/"
+            image: require("./assets/images/pixmama_logo.png"),
+            link: "https://pixmama.com/",
+            title: "Pixmama",
+            description: "Pixmama is currently bangladesh's biggest stock photo marketplace. It offers the best quality,\n" +
+            "royality free stock images at the best prices to fill all creative needs."
         },
         {
-            image: require("./assets/images/nextuLogo.webp"),
-            link: "http://nextu.se/"
+            image: require("./assets/images/smart_construction_logo.png"),
+            link: "http://nextu.se/",
+            title: "Smart Construction",
+            description: "Smart Construction is an end to end solution for managing construction work. " +
+            "Key features includes tracking of inventory items, expenditure, work progress etc."
         }
     ]
 };
