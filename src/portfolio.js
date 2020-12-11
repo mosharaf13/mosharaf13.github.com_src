@@ -107,11 +107,11 @@ const techStack = {
     experience: [
         {
             Stack: "Frontend/Design",  //Insert stack or technology you have experience in
-            progressPercentage: "90%"  //Insert relative proficiency in percentage
+            progressPercentage: "70%"  //Insert relative proficiency in percentage
         },
         {
             Stack: "Backend",
-            progressPercentage: "70%"
+            progressPercentage: "80%"
         },
         {
             Stack: "Programming",
